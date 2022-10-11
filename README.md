@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/cenkderman/Qr-code-card.git](https://github.com/cenkderman/Qr-code-card.git)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [https://cenkderman.github.io/Qr-code-card/](https://your-live-site-url.com)
 
 ### Built with
 
